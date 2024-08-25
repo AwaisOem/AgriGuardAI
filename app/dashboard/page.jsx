@@ -8,6 +8,9 @@ import { useUser } from "@stackframe/stack"
 import { eq } from "drizzle-orm"
 import Link from "next/link"
 import { useState,useEffect } from "react"
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
+import { RocketIcon } from "lucide-react"
+
 
 const Page = ()=>{
     const user = useUser({or: "redirect"})
@@ -22,7 +25,7 @@ const Page = ()=>{
     if(!crops || crops.length == 0){
         return (<main className="pt-28 lg:pt-20 w-full h-full min-h-screen flex flex-col gap-4 p-4 lg:gap-6 lg:p-6">
             <div
-                className="flex flex-1 items-center justify-center rounded-lg border border-dashed shadow-sm" x-chunk="dashboard-02-chunk-1"
+                className="flex flex-1 flex-col gap-10 items-center justify-center rounded-lg border border-dashed shadow-sm" x-chunk="dashboard-02-chunk-1"
             >
                 <div className="flex flex-col items-center gap-1 text-center">
                 <h3 className="text-2xl font-bold tracking-tight">
@@ -36,6 +39,21 @@ const Page = ()=>{
                 </CreateCropDrawer>
                 </div>
             </div>
+            <Alert className="w-full bg-slate-700 border-0 text-white flex justify-between items-center">
+                    <div className="flex flex-col">
+                        <div className="flex gap-2">
+                            <RocketIcon className="h-4 w-4" color="white" />
+                            <AlertTitle>Chat with Expert Farmer AI!</AlertTitle>
+                        </div>
+                    </div>
+                    <Link href="/dashboard/chat">
+                    <Button
+                        className="ml-auto gap-1.5 text-sm bg-white text-black hover:bg-white/90 hover:text-black"
+                    >
+                        Chat Now
+                    </Button>
+                    </Link>
+            </Alert>
         </main>)
     }
     return (<main className="pt-28 lg:pt-20 w-full h-full min-h-screen flex flex-col gap-4 p-4 lg:gap-6 lg:p-6">
@@ -69,7 +87,23 @@ const Page = ()=>{
                     </Card>
                 ))}
             </div>
+            
         </div>
+        <Alert className="w-full bg-slate-700 border-0 text-white flex justify-between items-center">
+                    <div className="flex flex-col">
+                        <div className="flex gap-2">
+                            <RocketIcon className="h-4 w-4" color="white" />
+                            <AlertTitle>Chat with Expert Farmer AI!</AlertTitle>
+                        </div>
+                    </div>
+                    <Link href="/dashboard/chat">
+                    <Button
+                        className="ml-auto gap-1.5 text-sm bg-white text-black hover:bg-white/90 hover:text-black"
+                    >
+                        Chat Now
+                    </Button>
+                    </Link>
+            </Alert>
     </main>)
 }
 
