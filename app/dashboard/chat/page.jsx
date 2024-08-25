@@ -126,10 +126,10 @@ function Instructions(){
                 </div>
                 <AlertDescription>
                 <ul className="list-disc px-8">
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit..</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit..</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit..</li>
-                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit..</li>
+                    <li>Ask Your Question. Type your query about farming practices or crop issues in the chatbox and hit send.</li>
+                    <li>Provide Details. Include specific information like crop type and location for more accurate advice.</li>
+                    <li>Receive Tailored Advice. Review the AI’s responses, which are customized based on your input and data.</li>
+                    <li>Implement Suggestions. Apply the recommended actions and strategies to improve your farming practices.</li>
                 </ul>
                 </AlertDescription>
             </div>
