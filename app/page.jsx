@@ -37,10 +37,10 @@ export default function Home() {
                 </div>
               </div>
               <h1 className="h1 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4 leading-tight">
-              A Platform for Farmers to Save Future
+              Empowering Farmers with AI-Driven Insights for a Resilient Harvest.
               </h1>
               <p className="text-lg text-slate-300 mb-14 ">
-              AgriGuardAI uses AI to predict crop dangers based on location, climate, and crop specifics. Get risk alert and suggestions to manage risks and optimize yields for smarter farming.
+              AgriGuardAI harnesses AI to anticipate crop risks by analyzing location, climate, and crop-specific data. Receive real-time alerts and expert advice to manage threats and optimize yields, empowering smarter, more resilient farming.
               </p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:inline-flex sm:justify-center space-y-4 sm:space-y-0 sm:space-x-4 ">
                   <Link
@@ -493,7 +493,7 @@ export default function Home() {
             <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
               <div>
                 <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">
-                  Getting started with Stack
+                  Getting started with AgriGuardAI
                 </div>
               </div>
               <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">
@@ -504,52 +504,43 @@ export default function Home() {
               <div className="w-full md:w-1/2 space-y-8">
                 <div className="space-y-2">
                   <h4 className="font-semibold">
-                    Can I integrate Stack into my existing project?
+                     How does AgriGuardAI predict crop dangers?
                   </h4>
                   <p className="text-slate-400">
-                    Yes! It is very straightforward! Stack does not require any
-                    special architecture and can merge well into any Next.js
-                    project that uses the App router.
+                    AgriGuardAI leverages advanced AI, specifically IBM Watson AI, to analyze a combination of climate data, location specifics, and crop details. This allows us to predict potential risks and offer tailored advice to help you safeguard your crops.
                   </p>
                 </div>
                 <div className="space-y-2">
                   <h4 className="font-semibold">
-                    How do I sync user data with my database?
+                   What kind of farming advice does AgriGuardAI provide?
                   </h4>
                   <p className="text-slate-400">
-                    For most of the time, you don't need to sync user data with
-                    your database. You can store JSON data in the user object
-                    itself. However, if you really need to sync data, you can
-                    use our webhooks.
+                    AgriGuardAI offers adaptive farming practices based on real-time data and AI analysis. Our recommendations cover everything from optimal planting times to strategies for mitigating climate-related risks and improving crop resilience.
                   </p>
                 </div>
                 <div className="space-y-2">
                   <h4 className="font-semibold">
-                    Can I deploy Stack on my own servers?
-                  </h4>
+                    Can AgriGuardAI be used for different types of crops?
                   <p className="text-slate-400">
-                    Yes! Stack is fully open-source and you can self-host it on
-                    your own servers.
+                    Yes, AgriGuardAI is designed to support a wide variety of crops. The platform tailors its predictions and suggestions based on the specific needs of each crop type, ensuring you get the most relevant information.
                   </p>
                 </div>
               </div>
               <div className="w-full md:w-1/2 space-y-8">
                 <div className="space-y-2">
                   <h4 className="font-semibold">
-                    How can I integrate Stack into my backend?
+                    How do I get started with AgriGuardAI?
                   </h4>
                   <p className="text-slate-400">
-                    Stack provides a Next.js server side SDK that you can just
-                    import and use. If you are using a different language or
-                    framework, you can use our REST API.
+                    Getting started is easy! Simply sign up on our website, input your farm’s details, and start receiving tailored insights and recommendations to enhance your farming practices and crop resilience.
                   </p>
                 </div>
                 <div className="space-y-2">
                   <h4 className="font-semibold">
-                    Does Stack support SSO with SAML?
+                    How do I receive alerts and suggestions from AgriGuardAI?
                   </h4>
                   <p className="text-slate-400">
-                    Yes! Let's get in touch and we can help you.
+                    You can receive alerts and suggestions directly through the AgriGuardAI web app. Notifications can be customized based on your preferences, ensuring you stay informed about any potential risks and the best steps to take.
                   </p>
                 </div>
                 <div className="space-y-2">
@@ -557,8 +548,7 @@ export default function Home() {
                     What kind of support do you offer?
                   </h4>
                   <p className="text-slate-400">
-                    We offer a range of support from data migration to custom
-                    on-premise deployments.
+                    AgriGuardAI features an AI-powered chat that provides instant, data-driven advice tailored to your specific farming needs. The AI can answer your questions, offer recommendations, and help you make informed decisions to protect and optimize your crops.
                   </p>
                 </div>
               </div>
@@ -604,14 +594,14 @@ export default function Home() {
             <div className="max-w-3xl mx-auto text-center">
               <div>
                 <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">
-                  A Platform for Farmers to save future
+                  Empowering Farmers with AI-Driven Insights for a Resilient Harvest.
                 </div>
               </div>
               <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">
-                Start Contributing
+                Ready to Cultivate a Sustainable Future?
               </h2>
               <p className="text-lg text-slate-400 mb-8">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae sed asperiores dolor nesciunt, ducimus consequatur debitis aspernatur? Cupiditate?
+                Join the AgriGuardAI community today and empower your farming with AI-driven insights. Stay ahead of climate challenges, protect your crops, and optimize your yields with the latest in agricultural technology.
               </p>
               <Link href="https://github.com/awaisoem">
                 <Button className="bg-white text-black hover:bg-white/90 hover:text-black">                         
