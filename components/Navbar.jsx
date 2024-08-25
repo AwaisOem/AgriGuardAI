@@ -7,7 +7,7 @@ const Navbar = () => {
         <Link href="/">
       <div className="flex gap-4 items-center pr-5"> 
           <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60">
-              Climaton
+            AgriGuardAI
           </h2>
       </div>
         </Link>

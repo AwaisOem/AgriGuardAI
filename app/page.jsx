@@ -37,10 +37,10 @@ export default function Home() {
                 </div>
               </div>
               <h1 className="h1 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4 leading-tight">
-                Predict Risk For Your Crops Based On Climate.
+              A Platform for Farmers to Save Future
               </h1>
               <p className="text-lg text-slate-300 mb-14 ">
-              Lorem ipsum dolor sit ame dolorem laborum deleniti perferendis aperiam modi, harum perspiciatis quod a! Cum dolor nisi saepe.
+              AgriGuardAI uses AI to predict crop dangers based on location, climate, and crop specifics. Get risk alert and suggestions to manage risks and optimize yields for smarter farming.
               </p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:inline-flex sm:justify-center space-y-4 sm:space-y-0 sm:space-x-4 ">
                   <Link

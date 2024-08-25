@@ -1,7 +1,11 @@
-
-# Danger Predictions for Farmers
+# AgriGuardAI
 
 predicts danger for crops and give suggestions to farmers by using crop data and climate details in specific area
+
+
+## main functionlities
+ - predicts danger for crops and give suggestions to farmers
+ - expert farmer chat
 
 ## Video Demo
 
