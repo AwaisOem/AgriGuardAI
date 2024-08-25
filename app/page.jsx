@@ -68,7 +68,7 @@ export default function Home() {
               <div className="py-4 first-of-type:pt-0 last-of-type:pb-0">
                 <div>
                   <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-6">
-                    Authentication
+                    AI-Driven Insights
                   </div>
                 </div>
                 <div className="grid md:grid-cols-3 gap-8 md:gap-12 mb-2">
@@ -91,12 +91,11 @@ export default function Home() {
                         />
                       </svg>
                       <h4 className="font-medium text-slate-50">
-                        Password, OAuth &amp; magic link
+                        Climate Impact Predictions
                       </h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Beautifully styled components to help you get started
-                      quickly. No need to worry about design and internal logic.
+                      Leverage AI to anticipate climate-related risks for your crops, ensuring proactive measures.
                     </p>
                     <div className="text-right">
                       <a
@@ -131,16 +130,11 @@ export default function Home() {
                         />
                       </svg>
                       <h4 className="font-medium text-slate-50">
-                        Headless or headful UI
+                       Customized Recommendations
                       </h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Integrate our{"{"}" "{"}"}
-                      <span className="font-mono font-medium text-slate-200">
-                        shadcn/ui
-                      </span>
-                      {"{"}" "{"}"}
-                      components, or build your own with our headless SDK.
+                      Receive tailored farming advice based on specific crop types and regional climate data.
                     </p>
                     <div className="text-right">
                       <a
@@ -175,13 +169,11 @@ export default function Home() {
                         />
                       </svg>
                       <h4 className="font-medium text-slate-50">
-                        JWTs without the JWTs
+                        Real-Time Alerts
                       </h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Stack manages JWTs and access tokens for you, so you get
-                      the performance benefits without ever having to think
-                      about them.
+                      Stay informed with instant notifications about potential threats to your crops.
                     </p>
                     <div className="text-right">
                       <a
@@ -201,7 +193,7 @@ export default function Home() {
               <div className="py-4 first-of-type:pt-0 last-of-type:pb-0">
                 <div>
                   <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-6">
-                    Authorization
+                   Smart Farming Tools
                   </div>
                 </div>
                 <div className="grid md:grid-cols-3 gap-8 md:gap-12 mb-2">
@@ -224,12 +216,11 @@ export default function Home() {
                         />
                       </svg>
                       <h4 className="font-medium text-slate-50">
-                        Organizations &amp; teams
+                        Risk Management Strategies
                       </h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Manage B2B customers with orgs &amp; teams, supporting
-                      email invitations, team components, and management tools.
+                      Access expert strategies to mitigate risks and optimize crop health and yield.
                     </p>
                     <div className="text-right">
                       <a
@@ -263,11 +254,11 @@ export default function Home() {
                         />
                       </svg>
                       <h4 className="font-medium text-slate-50">
-                        Permissions &amp; RBAC
+                        Crop-Specific Guidance
                       </h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Define arbitrary permission trees and org-wide roles.
+                      Get detailed instructions and tips designed for the unique needs of your crops.
                     </p>
                     <div className="text-right">
                       <a
@@ -301,13 +292,11 @@ export default function Home() {
                         />
                       </svg>
                       <h4 className="font-medium text-slate-50">
-                        3rd-party OAuth
+                        Data-Driven Decisions
                       </h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Access third-party OAuth APIs such as Gmail or OneDrive
-                      without having to think about OAuth flows or token
-                      refreshes.
+                      Use comprehensive data analysis to make informed decisions about planting, irrigation, and harvesting.
                     </p>
                     <div className="text-right">
                       <a
@@ -327,7 +316,7 @@ export default function Home() {
               <div className="py-4 first-of-type:pt-0 last-of-type:pb-0">
                 <div>
                   <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-6">
-                    User Management
+                    Community and Support
                   </div>
                 </div>
                 <div className="grid md:grid-cols-3 gap-8 md:gap-12 mb-2">
@@ -367,11 +356,10 @@ export default function Home() {
                           fill="currentColor"
                         />
                       </svg>
-                      <h4 className="font-medium text-slate-50">REST API</h4>
+                      <h4 className="font-medium text-slate-50">AI Chat Assistance</h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Use our client and server APIs to build custom front- and
-                      backends.
+                      Interact with an AI-powered chat for instant, data-driven advice and solutions.
                     </p>
                     <div className="text-right">
                       <a
@@ -405,11 +393,11 @@ export default function Home() {
                         />
                       </svg>
                       <h4 className="font-medium text-slate-50">
-                        Impersonation
+                        Global Accessibility
                       </h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Impersonate users to debug issues or help your customers.
+                      Benefit from location-specific insights, no matter where your farm is located.
                     </p>
                     <div className="text-right">
                       <a
@@ -437,10 +425,10 @@ export default function Home() {
                       >
                         <path d="M178.16,184H111.32A48,48,0,1,1,25.6,147.19a8,8,0,0,1,12.8,9.61A31.69,31.69,0,0,0,32,176a32,32,0,0,0,64,0,8,8,0,0,1,8-8h74.16a16,16,0,1,1,0,16ZM64,192a16,16,0,0,0,14.08-23.61l35.77-58.14a8,8,0,0,0-2.62-11,32,32,0,1,1,46.1-40.06A8,8,0,1,0,172,52.79a48,48,0,1,0-75.62,55.33L64.44,160c-.15,0-.29,0-.44,0a16,16,0,0,0,0,32Zm128-64a48.18,48.18,0,0,0-18,3.49L142.08,79.6A16,16,0,1,0,128,88l.44,0,35.78,58.15a8,8,0,0,0,11,2.61A32,32,0,1,1,192,208a8,8,0,0,0,0,16,48,48,0,0,0,0-96Z" />
                       </svg>
-                      <h4 className="font-medium text-slate-50">Webhooks</h4>
+                      <h4 className="font-medium text-slate-50">Expert Consultations</h4>
                     </div>
                     <p className="text-sm text-slate-400 grow">
-                      Sync with Slack, your database, or any other service.
+                      Connect with farming experts for personalized advice through our integrated chat feature.
                     </p>
                     <div className="text-right">
                       <a
