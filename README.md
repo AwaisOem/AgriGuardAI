@@ -7,12 +7,25 @@ predicts danger for crops and give suggestions to farmers by using crop data and
  - predicts danger for crops and give suggestions to farmers
  - expert farmer chat
 
+## Testing Account (incase you don't want to create a new account)
+ 
+Email: 
+```
+adaptive-farm-ai.isotope204@passinbox.com
+```
+ 
+Password: 
+```
+IBM_WATSON_AI
+```
+
 ## Video Demo
 
 https://github.com/user-attachments/assets/cc9d6b3d-0715-408e-987d-823eae3df5d7
 
 
 Full Presentation: https://youtu.be/L-3OkQVck6s
+
 
 ## Tech Stack
 
