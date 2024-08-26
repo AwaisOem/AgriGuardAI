@@ -9,7 +9,10 @@ predicts danger for crops and give suggestions to farmers by using crop data and
 
 ## Video Demo
 
+https://github.com/user-attachments/assets/cc9d6b3d-0715-408e-987d-823eae3df5d7
 
+
+Full Presentation: https://youtu.be/L-3OkQVck6s
 
 ## Tech Stack
 
