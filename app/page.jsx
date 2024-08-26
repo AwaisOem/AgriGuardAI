@@ -97,19 +97,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Leverage AI to anticipate climate-related risks for your crops, ensuring proactive measures.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://docs.stack-auth.com/getting-started/setup"
-                      >
-                        Get Started
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          {"{"}" "{"}"}
-                          &gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                   <div className="flex flex-col">
                     <div className="flex items-center space-x-2 mb-1">
@@ -136,19 +123,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Receive tailored farming advice based on specific crop types and regional climate data.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://docs.stack-auth.com/customization/custom-pages"
-                      >
-                        Learn More{"{"}" "{"}"}
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          {"{"}" "{"}"}
-                          &gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                   <div className="flex flex-col">
                     <div className="flex items-center space-x-2 mb-1">
@@ -175,18 +149,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Stay informed with instant notifications about potential threats to your crops.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://docs.stack-auth.com/getting-started/users"
-                      >
-                        Learn More{"{"}" "{"}"}
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          &gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -222,18 +184,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Access expert strategies to mitigate risks and optimize crop health and yield.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://docs.stack-auth.com/concepts/orgs-and-teams"
-                      >
-                        Learn More
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          &gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                   <div className="flex flex-col">
                     <div className="flex items-center space-x-2 mb-1">
@@ -260,18 +210,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Get detailed instructions and tips designed for the unique needs of your crops.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://docs.stack-auth.com/concepts/permissions"
-                      >
-                        Learn More
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          &gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                   <div className="flex flex-col">
                     <div className="flex items-center space-x-2 mb-1">
@@ -298,18 +236,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Use comprehensive data analysis to make informed decisions about planting, irrigation, and harvesting.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://docs.stack-auth.com/concepts/oauth"
-                      >
-                        Learn More{"{"}" "{"}"}
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          -&gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -361,18 +287,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Interact with an AI-powered chat for instant, data-driven advice and solutions.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://docs.stack-auth.com/rest-api/auth"
-                      >
-                        Learn More{"{"}" "{"}"}
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          -&gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                   <div className="flex flex-col">
                     <div className="flex items-center space-x-2 mb-1">
@@ -399,18 +313,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Benefit from location-specific insights, no matter where your farm is located.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://app.stack-auth.com"
-                      >
-                        Go To Dashboard{"{"}" "{"}"}
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          -&gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                   <div className="flex flex-col">
                     <div className="flex items-center space-x-2 mb-1">
@@ -430,18 +332,6 @@ export default function Home() {
                     <p className="text-sm text-slate-400 grow">
                       Connect with farming experts for personalized advice through our integrated chat feature.
                     </p>
-                    <div className="text-right">
-                      <a
-                        target="_blank"
-                        className="text-sm font-medium text-slate-300 hover:text-white inline-flex items-center transition duration-150 ease-in-out group"
-                        href="https://docs.stack-auth.com/concepts/webhooks"
-                      >
-                        Learn More{"{"}" "{"}"}
-                        <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
-                          -&gt;
-                        </span>
-                      </a>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -592,7 +482,7 @@ export default function Home() {
               <p className="text-lg text-slate-400 mb-8">
                 Join the AgriGuardAI community today and empower your farming with AI-driven insights. Stay ahead of climate challenges, protect your crops, and optimize your yields with the latest in agricultural technology.
               </p>
-              <Link href="https://github.com/awaisoem">
+              <Link href="https://github.com/AwaisOem/farmer-danger-predictive-ai">
                 <Button className="bg-white text-black hover:bg-white/90 hover:text-black">                         
                           Github
                 </Button>
