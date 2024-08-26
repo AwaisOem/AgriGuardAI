@@ -509,6 +509,7 @@ export default function Home() {
                 <div className="space-y-2">
                   <h4 className="font-semibold">
                     Can AgriGuardAI be used for different types of crops?
+                  </h4>
                   <p className="text-slate-400">
                     Yes, AgriGuardAI is designed to support a wide variety of crops. The platform tailors its predictions and suggestions based on the specific needs of each crop type, ensuring you get the most relevant information.
                   </p>
